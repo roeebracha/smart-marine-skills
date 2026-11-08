@@ -1,0 +1,14 @@
+{
+  "name": "smart-marine-skills",
+  "description": "Shared Claude skills for the Smart Marine AI team",
+  "owner": {
+    "name": "Roee Bracha"
+  },
+  "plugins": [
+    {
+      "name": "dev-kit",
+      "source": "./plugins/dev-kit",
+      "description": "Team workflows for coding agents. Includes pick-up-task: turns app-testing findings into agent-ready Linear tickets."
+    }
+  ]
+}
